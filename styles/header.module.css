@@ -1,0 +1,8 @@
+.header {
+    text-align: center;
+    background-color: darkred;
+    color: blue;
+    border-radius: 2rem;
+    width: 8rem;
+    border: 5px solid gray;
+}
